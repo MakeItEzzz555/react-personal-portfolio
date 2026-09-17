@@ -4,7 +4,7 @@ Historical Vite React portfolio with about, project, contact and inquiry section
 
 ## Overview
 
-Section-based personal portfolio with about/projects/contact/inquiries and a historical Navbar/Home/Footer version.
+Historical personal portfolio organized into about, projects, contact and inquiry sections. Only the included section-based implementation is archived here.
 
 ## Features
 
